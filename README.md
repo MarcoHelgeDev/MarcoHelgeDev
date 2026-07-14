@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📌 I'm a software developer and graphic designer from Kiel.<br>👉 Check out my projects here: www.placeholderplaceholder.com</p>
+<p align="left">📌 I'm a software developer and graphic designer from Kiel.<br>👉 Check out my projects here: www.marco-helge.de</p>
 
 ###
 
